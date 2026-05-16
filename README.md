@@ -50,11 +50,11 @@ icmp
 
 ## Terminal Screenshot
 
-![Ping Command](screenshots/ping_command.png)
+![Ping Command](Screenshots/ping_command.png)
 
 ## ICMP Packet Analysis
 
-![ICMP Analysis](screenshots/icmp.png)
+![ICMP Analysis](Screenshots/icmp.png)
 
 ---
 
@@ -75,7 +75,7 @@ dns
 
 ## DNS Packet Analysis
 
-![DNS Analysis](screenshots/dns.png)
+![DNS Analysis](Screenshots/dns.png)
 
 ---
 
@@ -102,7 +102,7 @@ http
 
 ## HTTP Packet Analysis
 
-![HTTP Analysis](screenshots/http.png)
+![HTTP Analysis](Screenshots/http.png)
 
 ---
 
@@ -123,7 +123,7 @@ tcp
 
 ## TCP Packet Screenshot
 
-![TCP Analysis](screenshots/tcp.png)
+![TCP Analysis](Screenshots/tcp.png)
 
 ---
 
@@ -144,7 +144,7 @@ tcp.flags.syn == 1 && tcp.flags.ack == 0
 
 ## SYN Packet Screenshot
 
-![TCP SYN Analysis](screenshots/tcp_handshake_syn.png)
+![TCP SYN Analysis](Screenshots/tcp_handshake_syn.png)
 
 ---
 
@@ -159,7 +159,7 @@ tcp.flags.syn == 1 && tcp.flags.ack == 0
 
 ## TCP Handshake Screenshot
 
-![TCP Handshake](screenshots/tcp_handshake.png)
+![TCP Handshake](Screenshots/tcp_handshake.png)
 
 ---
 
@@ -174,7 +174,7 @@ tcp.flags.syn == 1 && tcp.flags.ack == 0
 
 ## Follow TCP Stream Screenshot
 
-![Follow TCP Stream](screenshots/follow_tcp_stream.png)
+![Follow TCP Stream](Screenshots/follow_tcp_stream.png)
 
 ---
 
@@ -189,7 +189,7 @@ tcp.flags.syn == 1 && tcp.flags.ack == 0
 
 ## Ethernet Conversation Screenshot
 
-![Ethernet Conversations](screenshots/conversions_eth0.png)
+![Ethernet Conversations](Screenshots/conversions_eth0.png)
 
 ---
 
@@ -204,7 +204,7 @@ tcp.flags.syn == 1 && tcp.flags.ack == 0
 
 ## IPv4 Conversation Screenshot
 
-![IPv4 Conversations](screenshots/conversions_ipv4.png)
+![IPv4 Conversations](Screenshots/conversions_ipv4.png)
 
 ---
 
@@ -219,7 +219,7 @@ tcp.flags.syn == 1 && tcp.flags.ack == 0
 
 ## TCP Conversation Screenshot
 
-![TCP Conversations](screenshots/conversions_tcp.png)
+![TCP Conversations](Screenshots/conversions_tcp.png)
 
 ---
 
@@ -234,7 +234,7 @@ tcp.flags.syn == 1 && tcp.flags.ack == 0
 
 ## UDP Conversation Screenshot
 
-![UDP Conversations](screenshots/conversions_UDP.png)
+![UDP Conversations](Screenshots/conversions_UDP.png)
 
 ---
 
